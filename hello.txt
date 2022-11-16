@@ -25,3 +25,4 @@ hello
 通过git remote add+别名+仓库地址，来添加别名
 通过git push +别名+分支名，来推送到远程仓库
 111111111111111本人更改
+00000oieowqieoegit-lhc
